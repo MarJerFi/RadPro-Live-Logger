@@ -102,4 +102,4 @@ To build a small standalone `.exe` (~3–4 MB) without debug symbols:
 ---
 
 ## License
-Open-source software. Free to use, modify, and distribute. Compatible with the [RadPro](https://github.com) communication protocol.
+Open-source software. Free to use, modify, and distribute. Compatible with the [RadPro](https://github.com/Gissio/radpro) communication protocol.
