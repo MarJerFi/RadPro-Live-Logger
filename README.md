@@ -4,6 +4,9 @@ A lightweight, standalone Windows desktop application for real-time radiation mo
 
 Built with **Lazarus IDE / Free Pascal** — compiles into a single native `.exe` (~3–4 MB) with zero external runtime dependencies (no Python or .NET installation required).
 
+Last release: 
+
+<img width="730" height="592" alt="screenshot" src="https://github.com/user-attachments/assets/ead6e628-89ba-4c1a-90d8-e526d6dbe632" />
 ---
 
 ## Common Geiger Tube Conversion Factors (`CPM / uSv/h`)
